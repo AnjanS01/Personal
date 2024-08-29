@@ -1,2 +1,3 @@
 Pushing test Text.
-new change
+new change to demo
+Change the directory
